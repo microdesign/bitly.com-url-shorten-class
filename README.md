@@ -1,4 +1,4 @@
-Bitly.com url shorten class
+Bit.ly url shorten class
 ===========================
 
 ### Basic use of class
