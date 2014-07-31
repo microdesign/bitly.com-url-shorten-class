@@ -1,9 +1,9 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: martin
- * Date: 30/07/2014
- * Time: 13:31
+ * Test of bit.ly class
+ * .
+ * @author: Martin Tonev
+ * @link themes.microdesign.com
  */
 
 error_reporting(E_ALL);
