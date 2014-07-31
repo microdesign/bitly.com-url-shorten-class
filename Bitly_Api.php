@@ -3,7 +3,7 @@
 /**
  * Class Bitly
  * 
- * @link microdesign-web.com
+ * @link themes.microdesign-web.com
  * @author Martin Tonev
  * @package bit ly  
  */
