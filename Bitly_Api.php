@@ -19,7 +19,7 @@ class Bitly{
 	/**
 	 * You Auth token
 	 */
-	const BITLY_OAUTH_ACCESS_TOKEN = '5286bf79ba929be674c39940f90e5f3153674d8d';
+	const BITLY_OAUTH_ACCESS_TOKEN = '-- AUTH-TOKEN--';
 
 	public static function init()
 	{
